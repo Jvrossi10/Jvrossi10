@@ -17,7 +17,7 @@
   <img align="center" alt="Joao-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Joao-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Joao-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Joao-Sass" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/java_226777?term=java&page=1&position=2&page=1&position=2&related_id=226777&origin=tag" />
+  
 
           
  
